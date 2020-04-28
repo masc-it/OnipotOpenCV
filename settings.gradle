@@ -1,0 +1,2 @@
+rootProject.name='OnipotOpenCV'
+include ':app', ':ocv'
